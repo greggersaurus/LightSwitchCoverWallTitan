@@ -2,6 +2,21 @@
 The idea for this project was to create a light switch cover that creates the
  illusion that there is a monster living in the walls.
 
+### Design
+This was my second attempt at using Blender for 3D modeling, and I wanted to
+ experiment with the sculpting tools. The approach was to just keep 
+ experimenting and using the different brushes until I was happy with the 
+ resulting face. Once this was complete I imported the Rounded Lightswitch
+ cover design and cut away a portion to expose the sculpted face. Steps were
+ then taken to reduce the complexity of the face (specificaly for portions
+ not visible after printing) and to make sure there was room for the light
+ switch to still work. 
+
+A good learning experience, and I'm happy with the final product, but the 
+ design approach could have been better. If I were to redesign I would make
+ more manual coarse adjustments to get the general shape of the face before
+ using the sculpting tool. 
+
 ### Influence 
 This is based on a scene from the Attack on Titan manga (see 
  reference_images/wall_titan_manga.png)
@@ -33,6 +48,6 @@ WallTitanSculpt.blend was modified to be 3D printer ready. This consisted of
 This was modeled in Blender 2.75a.
 
 ### 3D Printing
-Used a MakerBot Replicator 2 to produce physical light switch cover. Settings
+A MakerBot Replicator 2 was used to produce physical light switch cover. Settings
  were for highest quality and smallest possible layer height. Do not remember
  other details, other than print time took roughly 8 hours. 
